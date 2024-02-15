@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huiwen Alex Yang's Homepage"
+title                    : "Alex's Homepage"
 title_separator          : "-"
 name                     : &name "Huiwen Alex Yang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Huiwen Alex Yang"
   avatar           : "HuiwenAlexYang.jpeg"
-  bio              : "A psychology PhD student at UC Berkeley"
+  bio              : "Psychology PhD student at Berkeley"
   location         : "Berkeley, CA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
