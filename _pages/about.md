@@ -14,14 +14,14 @@ Research focus: I use computational methods to build quantitative models of huma
 # Publications
 ## Published
 
+**Yang, H.A.**, Martí, L., Baer, C., Granera, A., Palmeri, H., Kidd, C. 2024. Emergence of certainty representations for guiding concept learning. In *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*.
+
+**Yang, H.A.**, Thompson, B., Kidd, C. 2024. Children Spontaneously Discover Efficient Sorting Algorithms in a Seriation Task. In *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*.
+
 **Yang, H.A.**, Piantadosi, S., Kidd, C. 2023. [Children’s Estimation of Peripheral Information Drives Improvements in Approximate Number Sense](https://escholarship.org/uc/item/783678kv). In *Proceedings of the 45th Annual Meeting of the Cognitive Science Society*.
 
 Ji, C., Shen, H., Xiong, Z., Chen, F., Zhang, M., **Yang, H**. 2023. [Prototypical Model with Novel Information‑theoretic Loss Function for Generalized Zero Shot Learning](https://arxiv.org/abs/2112.03134). In *The 15th Asian Conference on Machine Learning*.
 
 ## In Review
-
-**Yang, H.A.**, Martí, L., Baer, C., Granera, A., Palmeri, H., Kidd, C. Emergence of certainty representations for guiding concept learning.
-
-**Yang, H.A.**, Thompson, B., Kidd, C. Children Spontaneously Discover Efficient Sorting Algorithms in a Seriation Task.
 
 Ji, C., Gong, D., **Yang, H.A**. Deep Deterministic Neural Network with Hierarchical Gaussian Mixture Model for Uncertainty Quantification.
