@@ -14,9 +14,9 @@ Research focus: I use computational methods to build quantitative models of huma
 # Publications
 ## Published
 
-**Yang, H.A.**, Martí, L., Baer, C., Granera, A., Palmeri, H., Kidd, C. (2024). [Emergence of certainty representations for guiding concept learning](https://escholarship.org/uc/item/783678kv). In *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*.
+**Yang, H.A.**, Martí, L., Baer, C., Granera, A., Palmeri, H., Kidd, C. (2024). [Emergence of certainty representations for guiding concept learning](https://escholarship.org/uc/item/7tj838s0). In *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*.
 
-**Yang, H.A.**, Thompson, B., Kidd, C. (2024). [Children Spontaneously Discover Efficient Sorting Algorithms in a Seriation Task](https://escholarship.org/uc/item/7tj838s0). In *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*.
+**Yang, H.A.**, Thompson, B., Kidd, C. (2024). [Children Spontaneously Discover Efficient Sorting Algorithms in a Seriation Task](https://escholarship.org/uc/item/0wq6g5px). In *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*.
 
 **Yang, H.A.**, Piantadosi, S., Kidd, C. (2023). [Children’s Estimation of Peripheral Information Drives Improvements in Approximate Number Sense](https://escholarship.org/uc/item/783678kv). In *Proceedings of the 45th Annual Meeting of the Cognitive Science Society*.
 
