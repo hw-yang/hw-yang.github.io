@@ -22,6 +22,6 @@ Research focus: I use computational methods to build quantitative models of huma
 
 Ji, C., Shen, H., Xiong, Z., Chen, F., Zhang, M., **Yang, H.** (2023). [Prototypical Model with Novel Information‑theoretic Loss Function for Generalized Zero Shot Learning](https://arxiv.org/abs/2112.03134). In *The 15th Asian Conference on Machine Learning*.
 
-## In Review
+## In Prep
 
 Ji, C., Gong, D., **Yang, H.A.** Deep Deterministic Neural Network with Hierarchical Gaussian Mixture Model for Uncertainty Quantification.
