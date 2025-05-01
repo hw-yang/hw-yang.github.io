@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Psychology PhD student at the University of California at Berkeley. I am currently working in the [Kidd Lab](https://www.kiddlab.com/), under the mentorship of [Dr. Celeste Kidd](https://psychology.berkeley.edu/people/celeste-kidd). I also work with [Dr. Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/) and [Dr. Bill Thompson](https://billdthompson.github.io/). I graduated from UC Berkeley in 2021 with a BA in Computer Science, Physics, and Psychology.
+I am a Psychology PhD candidate at the University of California at Berkeley. I am currently working in the [Kidd Lab](https://www.kiddlab.com/), under the mentorship of [Dr. Celeste Kidd](https://psychology.berkeley.edu/people/celeste-kidd). I also work with [Dr. Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/) and [Dr. Bill Thompson](https://billdthompson.github.io/). I graduated from UC Berkeley in 2021 with a BA in Computer Science, Physics, and Psychology.
 
 Research focus: I use computational methods to build quantitative models of human learning mechanisms, and uses insights from that psychology work as inspiration to advance machine learning techniques.
 
@@ -24,4 +24,4 @@ Ji, C., Shen, H., Xiong, Z., Chen, F., Zhang, M., **Yang, H.** (2023). [Prototyp
 
 ## In Prep
 
-Ji, C., Gong, D., **Yang, H.A.** Deep Deterministic Neural Network with Hierarchical Gaussian Mixture Model for Uncertainty Quantification.
+**Yang, H.A.**, Thompson, B., Kidd, C. (2024). Children Spontaneously Discover Efficient Solutions to a Difficult Sorting Task.
