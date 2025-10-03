@@ -22,7 +22,3 @@ Fang, Y., **Yang, H.A.**, Christie, S. (2025). [Early experiences in shaping chi
 **Yang, H.A.**, Thompson, B., Kidd, C. (2024). [Children Spontaneously Discover Efficient Sorting Algorithms in a Seriation Task](https://escholarship.org/uc/item/7tj838s0). In *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*.
 
 **Yang, H.A.**, Piantadosi, S., Kidd, C. (2023). [Children’s Estimation of Peripheral Information Drives Improvements in Approximate Number Sense](https://escholarship.org/uc/item/783678kv). In *Proceedings of the 45th Annual Meeting of the Cognitive Science Society*.
-
-## In Prep
-
-**Yang, H.A.**, Thompson, B., Kidd, C. (2024). Children Spontaneously Discover Efficient Solutions to a Difficult Sorting Task.
