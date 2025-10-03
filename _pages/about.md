@@ -13,7 +13,7 @@ Research focus: I use computational methods to build quantitative models of huma
 
 # Publications
 ## Published
-**Yang, H.A.**, Thompson, B., Kidd, C. (2025). [Children spontaneously discover efficient solutions to a difficult sorting task](https://www.nature.com/articles/s41562-025-02302-6). In *Nature Human Behaviour*. Press: [The Conversation](https://theconversation.com/children-can-be-systematic-problem-solvers-at-younger-ages-than-psychologists-had-thought-new-research-266438) | [NewScientist](https://www.newscientist.com/article/2498204-kids-as-young-as-4-innately-use-sorting-algorithms-to-solve-problems/)
+**Yang, H.A.**, Thompson, B., Kidd, C. (2025). [Children spontaneously discover efficient solutions to a difficult sorting task](https://www.nature.com/articles/s41562-025-02302-6). In *Nature Human Behaviour*. Press: [The Conversation](https://theconversation.com/children-can-be-systematic-problem-solvers-at-younger-ages-than-psychologists-had-thought-new-research-266438) | [New Scientist](https://www.newscientist.com/article/2498204-kids-as-young-as-4-innately-use-sorting-algorithms-to-solve-problems/) | [San Francisco Chronicle](https://www.sfchronicle.com/news/article/children-can-be-systematic-problem-solvers-at-21082500.php) | [Seattle Post-Intelligencer](https://www.seattlepi.com/news/article/children-can-be-systematic-problem-solvers-at-21082500.php)
 
 Fang, Y., **Yang, H.A.**, Christie, S. (2025). [Early experiences in shaping children’s explore‑exploit decisions: evidence from the rural‑urban gap](https://escholarship.org/uc/item/3mh3v6b5). In *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*.
 
