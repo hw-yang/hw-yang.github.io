@@ -1,0 +1,50 @@
+===============================================
+HOW TO START AND STOP YOUR JEKYLL SERVER
+===============================================
+
+TO START THE SERVER:
+====================
+
+Run this command from your project directory:
+
+docker run --rm --volume="$PWD:/srv/jekyll" -p 4000:4000 -w /srv/jekyll ruby:3.2 bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0"
+
+Then open your browser and go to:
+http://localhost:4000
+
+The first time will take a minute or two to install dependencies.
+Subsequent runs will be faster.
+
+
+TO STOP THE SERVER:
+===================
+
+Press: Ctrl+C
+
+(Hold Control and press C in the terminal where the server is running)
+
+
+WHAT'S HAPPENING:
+=================
+
+- Docker is running a containerized Ruby 3.2 environment
+- It installs dependencies (bundle install)
+- It starts Jekyll and serves your site on localhost:4000
+- You can edit your files in VS Code and the site will auto-reload
+
+
+NOTES:
+======
+
+- Make sure Docker Desktop is running before starting
+- Don't close the terminal until you want to stop the server
+- You can make edits to your files while the server is running
+- Changes will appear in your browser after a refresh
+
+
+FASTER ALTERNATIVE (if you know the dependencies are installed):
+================================================================
+
+docker run --rm --volume="$PWD:/srv/jekyll" -p 4000:4000 -w /srv/jekyll ruby:3.2 bundle exec jekyll serve --host 0.0.0.0
+
+(This skips the bundle install step)
