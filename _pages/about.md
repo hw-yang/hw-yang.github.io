@@ -17,7 +17,9 @@ Research focus: I use computational methods to build quantitative models of huma
 
 **Yang, H.A.**, Thompson, B., Kidd, C. (2025). [Children spontaneously discover efficient solutions to a difficult sorting task](https://www.nature.com/articles/s41562-025-02302-6). In _Nature Human Behaviour_. Selected Press: [The Conversation](https://theconversation.com/children-can-be-systematic-problem-solvers-at-younger-ages-than-psychologists-had-thought-new-research-266438) \| [New Scientist](https://www.newscientist.com/article/2498204-kids-as-young-as-4-innately-use-sorting-algorithms-to-solve-problems/) \| [San Francisco Chronicle](https://www.sfchronicle.com/news/article/children-can-be-systematic-problem-solvers-at-21082500.php) \| [Seattle Post-Intelligencer](https://www.seattlepi.com/news/article/children-can-be-systematic-problem-solvers-at-21082500.php)
 
-## All
+## Other
+
+**Yang, H. A.**, Kidd, C. (2026). What certainty and other metacognitive representations in cognitive development reveal about the future of AI models. _DevAI Workshop at NeurIPS 2026_.
 
 **Yang, H.A.**, Ho, M., Thompson, B. (2026). [Spontaneous meta‑learning of efficient problem‑solving algorithms](https://escholarship.org/uc/item/9sw813q0). In _Proceedings of the 48th Annual Meeting of the Cognitive Science Society_.
 
