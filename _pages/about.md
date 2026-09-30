@@ -19,7 +19,12 @@ Research focus: I use computational methods to build quantitative models of huma
 
 ## Other
 
+**Yang, H. A.**, Ho, M., & Thompson, B. (2026). Hypothesis-guided discovery of cognitive algorithms via program refinement. _arXiv preprint_.
+
 **Yang, H. A.**, Kidd, C. (2026). What certainty and other metacognitive representations in cognitive development reveal about the future of AI models. _DevAI Workshop at NeurIPS 2026_.
+
+**Yang, H. A.**, Skwersky, R., Thompson, B.,Kidd, C. (2026). 	
+AYO: A Safe and Privacy-Preserving Platform for Studying Children’s Interactions with LLMs. _Child Safety in AI Workshop at NeurIPS 2026_.
 
 **Yang, H.A.**, Ho, M., Thompson, B. (2026). [Spontaneous meta‑learning of efficient problem‑solving algorithms](https://escholarship.org/uc/item/9sw813q0). In _Proceedings of the 48th Annual Meeting of the Cognitive Science Society_.
 
